@@ -1,8 +1,8 @@
 ## DVD-Rental
 
-#### Installation Process
+## Installation Process
 
-###### Install Dependencies
+#### Install Dependencies
 
 To install all the dependencies, Just run the command on your terminal
 
@@ -10,22 +10,22 @@ To install all the dependencies, Just run the command on your terminal
 composer install
 ```
 
-###### Database Configuration
+#### Database Configuration
 
 Open app/config/database.php file then setup you database connection type, database hostname, username & password.
 
-###### Email Configuration
+#### Email Configuration
 
 Open app/config/mail.php file then setup your email username & password. Don't forget to add your SMTP host name & port number.
 
-###### Database Migration
+#### Database Migration
 Run the command on your terminal
 
 ```
 php artisan migrate
 ```
 
-###### Database Seed
+#### Database Seed
 
 ```
 php artisan db:seed
@@ -41,20 +41,20 @@ php artisan serve
 
 ###### Admin
 
-username: admin
+username: admin <br />
 password: admin123
 
 ###### Employee
 
-username: employee
+username: employee <br />
 password: employee123
 
 ###### Member
 
-username: member
+username: member <br />
 password: member123
 
 
 #### Demo
 
-[Link](http://dvdrental.iftekhersunny.com)
+[DVD Rental Demo](http://dvdrental.iftekhersunny.com)
