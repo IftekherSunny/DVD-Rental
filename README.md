@@ -1,6 +1,5 @@
 ## DVD-Rental
 
-## Installation Process
 
 #### Install Dependencies
 
