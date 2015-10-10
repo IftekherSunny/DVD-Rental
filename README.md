@@ -11,7 +11,7 @@ composer install
 
 #### Database Configuration
 
-Open app/config/database.php file then setup you database connection type, database hostname, username & password.
+Open app/config/database.php file then setup your database connection type, database hostname, username & password.
 
 #### Email Configuration
 
